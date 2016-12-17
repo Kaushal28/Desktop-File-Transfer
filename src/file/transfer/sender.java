@@ -22,7 +22,7 @@ import java.util.ArrayList;
 public class sender {
   
     ArrayList<File> files;
-    String FILE_PATH = "/home/kaushal28/Desktop/date.html";
+    String FILE_PATH = "/home/kaushal28/Desktop/os.pdf";
     Socket socket;
     
     public void sendProcess(String desired){
